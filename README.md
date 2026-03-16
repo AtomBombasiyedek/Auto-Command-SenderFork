@@ -1,5 +1,5 @@
 # AutoCommandSender
-Exiled 9.10.2 SCPSL 14.2.2
+Exiled 9.10.2+ SCPSL 14.2.2+
 
 ![Alt](https://repobeats.axiom.co/api/embed/0480f0d8c5510ab64353908c8ea6261017b136e5.svg "Repobeats analytics image")
 
